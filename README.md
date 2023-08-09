@@ -1,4 +1,3 @@
-![view (1)](https://github.com/bunyaminkalkan/bunyaminkalkan/assets/109524769/f85cdac9-4f4f-4873-80f7-2571231bc83f)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bnymn_klkn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bünyamin-Kalkan) 
 
@@ -11,10 +10,9 @@
 
 ---
 <p align="center">
-  #🎧 
-  ![view (1)](https://github.com/bunyaminkalkan/bunyaminkalkan/assets/109524769/519d25d2-1ecb-4d90-9e88-faaee76889d6)
+  🎧 
 </p>
-
+![view (1)](https://github.com/bunyaminkalkan/bunyaminkalkan/assets/109524769/519d25d2-1ecb-4d90-9e88-faaee76889d6)
 
 
 [![](https://visitcount.itsvg.in/api?id=bunyaminkalkan&icon=0&color=0)](https://visitcount.itsvg.in)

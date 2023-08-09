@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=96B6C5&center=true&vCenter=true&width=435&lines=Hello!+I+am+B%C3%BCnyamin;I+am+interested+in;Cybersecurity+and+Backend" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&pause=1000&color=96B6C5&center=true&vCenter=true&width=435&lines=Hello!+I+am+B%C3%BCnyamin;I+am+interested+in;Cybersecurity+and+Backend" alt="Typing SVG" /></a>
 
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f7465722677696474683d313030](https://github.com/bunyaminkalkan/bunyaminkalkan/assets/109524769/ef4e6bfe-ecd3-4b44-a1d0-af53f6ff5157)
 

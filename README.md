@@ -10,7 +10,7 @@
 
 ---
 
-# 🎧 
+
 ![view (1)](https://github.com/bunyaminkalkan/bunyaminkalkan/assets/109524769/519d25d2-1ecb-4d90-9e88-faaee76889d6)
 
 

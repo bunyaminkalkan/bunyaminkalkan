@@ -9,10 +9,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bunyaminkalkan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-<p align="center">
-  🎧 
-</p>
 
+##🎧 
 ![view (1)](https://github.com/bunyaminkalkan/bunyaminkalkan/assets/109524769/519d25d2-1ecb-4d90-9e88-faaee76889d6)
 
 

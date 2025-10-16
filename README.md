@@ -2,6 +2,7 @@
 
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f7465722677696474683d313030](https://github.com/bunyaminkalkan/bunyaminkalkan/assets/109524769/ef4e6bfe-ecd3-4b44-a1d0-af53f6ff5157)
 
+---
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -23,6 +24,8 @@
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-8E44AD.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-FF6F00.svg?style=for-the-badge&logo=codeium&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bunyaminkalkan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bunyaminkalkan&theme=tokyonight&hide_border=true)<br/>
@@ -37,5 +40,3 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=bunyaminkalkan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
